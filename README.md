@@ -100,5 +100,10 @@
     * HTML/CSS를 활용한 시각적 연출 (블루스크린, 시스템 알림 등)
 
 
+가천대학교 2025학년도 한국어문학과 P-실무 프로젝트 결과물 
+
+(담당: 전성규)
+
+
 ---
 Copyright ⓒ 2025 BAEBAEMU. All rights reserved.

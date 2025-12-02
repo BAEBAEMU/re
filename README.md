@@ -96,5 +96,6 @@
     * `header` 태그를 활용한 실시간 상태창(HUD) 구현
     * HTML/CSS를 활용한 시각적 연출 (블루스크린, 시스템 알림 등)
 
+*꼭 게임 플레이할 때, HTML 파일과 이미지를 함께 다운로드 하시고 플레이하세요!*
 ---
 Copyright ⓒ 2025 BAEBAEMU. All rights reserved.

@@ -4,7 +4,7 @@
 > 
 > 끝없는 시뮬레이션의 굴레를 순례하는 한 AI의 짝사랑 이야기.
 
-
+<br>
 
 ## 1. 프로젝트 개요 (Project Info)
 * **프로젝트명** : 재귀적 편련 (Recursive Itinerary)
